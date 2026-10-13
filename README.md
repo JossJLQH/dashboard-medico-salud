@@ -24,5 +24,5 @@ Sigue estos pasos para clonar y ejecutar este proyecto en tu entorno local:
 
 1. **Clona este repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/dashboard-medico-salud.git](https://github.com/JossJLQH/dashboard-medico-salud.git)
+   git clone [https://github.com/JossJLQH/dashboard-medico-salud.git](https://github.com/JossJLQH/dashboard-medico-salud.git)
    cd dashboard-medico-salud
